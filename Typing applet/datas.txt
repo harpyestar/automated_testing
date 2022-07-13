@@ -1,0 +1,4 @@
+,123,User Id不能为空
+admin,,password不能为空
+adminx,123,没有此用户
+admin,1234,密码错误
